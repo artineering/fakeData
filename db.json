@@ -1,0 +1,18 @@
+{
+  "users":[
+    {
+      "username":"siddhrth.vaghela@gmail.com",
+      "password":"lounge@123",
+      "name":"siddharth vaghela",
+      "nickname":"vagzi"
+    }
+  ],
+  "activegames":[
+    {
+      "gameID": 1,
+      "players":[],
+      "data":[]
+    }
+  ],
+  "leaderboard":[]
+}
