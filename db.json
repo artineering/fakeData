@@ -11,6 +11,19 @@
   "activegames":[
     {
       "gameID": 1,
+      "status":"new",
+      "players":[],
+      "data":[]
+    },
+    {
+      "gameID": 2,
+      "status":"active",
+      "players":[],
+      "data":[]
+    },
+    {
+      "gameID": 3,
+      "status":"over",
       "players":[],
       "data":[]
     }
