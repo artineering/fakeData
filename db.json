@@ -28,5 +28,40 @@
       "data":[]
     }
   ],
-  "leaderboard":[]
+  "leaderboard":[],
+  "properties":[
+    {
+      "name":"Mayfair",
+      "color": "darkblue",
+      "price":"400",
+      "baserent":50,
+      "rent":[
+        {
+         "development":0,
+          "rent": 100
+        },
+        {
+         "development":1,
+          "rent": 200
+        },
+        {
+         "development":2,
+          "rent":600
+        },
+        {
+          "development":3,
+          "rent":1400
+        },
+        {
+          "development":4,
+          "rent":1700
+        },
+        {
+          "development":"hotel",
+          "rent":2000
+        }
+      ],
+      "mortgageValue":200
+    }
+  ]
 }
