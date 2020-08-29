@@ -35,6 +35,7 @@
       "color": "darkblue",
       "price":"400",
       "baserent":50,
+      "developmentCost":200,
       "rent":[
         {
          "development":0,
