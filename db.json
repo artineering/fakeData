@@ -97,6 +97,74 @@
         }
       ],
       "mortgageValue":200
+    },
+    {
+      "name":"Old Kent Road",
+      "color": "brown",
+      "price":"60",
+      "baserent":2,
+      "developmentCost":50,
+      "rent":[
+        {
+         "development":0,
+          "rent": 4
+        },
+        {
+         "development":1,
+          "rent": 10
+        },
+        {
+         "development":2,
+          "rent":30
+        },
+        {
+          "development":3,
+          "rent":90
+        },
+        {
+          "development":4,
+          "rent":160
+        },
+        {
+          "development":"hotel",
+          "rent":250
+        }
+      ],
+      "mortgageValue":30
+    },
+    {
+      "name":"Whitechapel Road",
+      "color": "brown",
+      "price":"60",
+      "baserent":4,
+      "developmentCost":50,
+      "rent":[
+        {
+         "development":0,
+          "rent": 8
+        },
+        {
+         "development":1,
+          "rent": 20
+        },
+        {
+         "development":2,
+          "rent":60
+        },
+        {
+          "development":3,
+          "rent":180
+        },
+        {
+          "development":4,
+          "rent":320
+        },
+        {
+          "development":"hotel",
+          "rent":450
+        }
+      ],
+      "mortgageValue":30
     }
   ]
 }
