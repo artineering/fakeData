@@ -63,6 +63,40 @@
         }
       ],
       "mortgageValue":200
+    },
+    {
+      "name":"Parklane",
+      "color": "darkblue",
+      "price":"350",
+      "baserent":35,
+      "developmentCost":200,
+      "rent":[
+        {
+         "development":0,
+          "rent": 70
+        },
+        {
+         "development":1,
+          "rent": 175
+        },
+        {
+         "development":2,
+          "rent":500
+        },
+        {
+          "development":3,
+          "rent":1100
+        },
+        {
+          "development":4,
+          "rent":1300
+        },
+        {
+          "development":"hotel",
+          "rent":1500
+        }
+      ],
+      "mortgageValue":200
     }
   ]
 }
